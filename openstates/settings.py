@@ -98,6 +98,7 @@ INSTALLED_APPS = [
     "allauth.socialaccount.providers.github",
     "opencivicdata.core.apps.BaseConfig",
     "opencivicdata.legislative.apps.BaseConfig",
+    "opencivicdata.events.apps.BaseConfig",
     "boundaries",
     "geo",
     "pupa",
